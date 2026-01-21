@@ -1,0 +1,11 @@
+{
+  "rss_sources": {
+    "CNBC Finance": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+    "TechCrunch": "https://techcrunch.com/feed/",
+    "CoinDesk": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "Yahoo Finance": "https://finance.yahoo.com/news/rssindex"
+  },
+  "receivers": [
+    "your_email@example.com"
+  ]
+}
