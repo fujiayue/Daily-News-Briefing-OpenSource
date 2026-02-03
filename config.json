@@ -6,8 +6,4 @@
     "Yahoo Finance": "https://finance.yahoo.com/news/rssindex"
   },
   "receivers": [
-    "463152136@qq.com",
-    "fujiayue@sunsharp.cn"
-  ],
-  "pushplus_token": "07fd3908d9b5434d8948eab4900de573"
-}
+
